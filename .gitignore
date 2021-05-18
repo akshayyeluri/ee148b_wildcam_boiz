@@ -1,7 +1,11 @@
 *ubyte
-*.*
 !*.py
 !*.ipynb
 !*.txt
 !readme.md
 !.gitignore
+256x256/
+models/
+submissions/
+subs/
+
